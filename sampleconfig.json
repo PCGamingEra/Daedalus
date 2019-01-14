@@ -1,0 +1,11 @@
+//prefix for bot command
+//token required to connect to discord's servers
+// database for gift key storage
+{
+  "prefix": "%",
+  "token": "yoursupersecrettokengoeshere",
+  "databases": {
+    "serveraddress": "example.example",
+    "serverpassword": "passwordgoeshere"
+  }
+}
